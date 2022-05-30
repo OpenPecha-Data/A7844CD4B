@@ -1,0 +1,19 @@
+segment_sources:
+  I4647396D:
+    type: origin_type
+    relation: translation
+    language: en
+  I0620BADC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  cb6bc68aa9a34fab8365c7dd7059a81d:
+    I4647396D: 1077b7fc2f464322babc6a415fdef430
+    I0620BADC: 9a99d2a573334cb1a6706643ea5eb3e3
+  f3aa70a4eb534e2d935bf51f060d1f78:
+    I4647396D: 1bcd2a43c01a40a4912e1e0b58dbf8bd
+    I0620BADC: ce75a2c25268439fbbe9d098e0813dac
+  162ae3c18ac6442d90170e60fe4a8b60:
+    I4647396D: 6f671fa9b75d458c8976d17d5ed239be
+    I0620BADC: 21c4c6c2c388469285b97e501ee3f001
